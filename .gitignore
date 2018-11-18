@@ -1,0 +1,11 @@
+# OS X
+.DS_store
+
+# Python
+*__pycache__*
+
+# Linux
+nohup.out
+
+# jupyter
+.ipynb_checkpoints
